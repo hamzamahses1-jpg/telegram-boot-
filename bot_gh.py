@@ -4,7 +4,7 @@ import time
 import urllib.request
 import urllib.error
 
-BOT_TOKEN = os.environ["8593897281:AAHIAGYB1ZJf3Uf9nmZ8Qc6SqYaKEHQwI-s"]
+BOT_TOKEN = os.environ["BOT_TOKEN"]
 SOURCE = -1004332120884   # القناة 1 (ABED)
 TARGET = -1004438136058   # القناة 2 (Traiding)
 RUN_SECONDS = 5 * 3600 + 45 * 60
